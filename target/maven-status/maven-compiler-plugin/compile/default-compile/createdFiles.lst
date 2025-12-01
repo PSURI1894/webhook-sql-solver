@@ -1,0 +1,6 @@
+com/hiring/dto/SolutionRequest.class
+com/hiring/dto/WebhookRequest.class
+com/hiring/runner/StartupRunner.class
+com/hiring/dto/WebhookResponse.class
+com/hiring/WebhookSqlSolverApplication.class
+com/hiring/service/WebhookService.class
